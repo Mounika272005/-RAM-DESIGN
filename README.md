@@ -33,3 +33,6 @@ This RAM project has provided a strong foundational experience in hardware model
 
 Through the use of open-source tools and a structured approach, the project reinforces key concepts in digital design and gives students a pathway to understanding how memory works within hardware systems.
 
+OUTPUT:
+
+
